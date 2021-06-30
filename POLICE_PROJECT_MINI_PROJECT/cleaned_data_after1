@@ -1,0 +1,1 @@
+stop_datetime,id,stop_date,stop_time,location_raw,police_department,driver_gender,driver_age_raw,driver_age,driver_race_raw,driver_race,violation_raw,violation,search_conducted,contraband_found,stop_outcome,is_arrested,stop_duration,out_of_state,drugs_related_stop,district
